@@ -83,17 +83,14 @@ body {
 }
 
 main {
-  width: 100vw;
+  width: 80vw;
   height: auto;
+  opacity: .8;
+  transition: width 4s;
 }
 
-.test {
-  opacity: 0;
-  transition: opacity 4s;
-}
-
-.test:hover {
-  opacity: 1;
+main:hover {
+  width: 50vw;
 }
 
 img {
