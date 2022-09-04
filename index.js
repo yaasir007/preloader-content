@@ -14,9 +14,7 @@ const content = document.querySelector('.content');
 // })
 
 const fadeOutEffect = setInterval(() => {
-  if (!preloader.style.opacity) {
-    preloader.style.opacity = 1;
-  }
+  
 }, 300);
 
 window.addEventListener('load', fadeOutEffect);
