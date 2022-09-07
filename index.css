@@ -85,7 +85,7 @@ body {
 }
 
 main {
-  width: 80vw;
+  width: 78vw;
   height: auto;
   opacity: .8;
   transition: width 4s;
@@ -93,6 +93,7 @@ main {
 
 main:hover {
   width: 50vw;
+  height:auto;
 }
 
 img {
