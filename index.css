@@ -91,11 +91,6 @@ main {
   transition: width 4s;
 }
 
-main:hover {
-  width: 50vw;
-  height:auto;
-}
-
 img {
   width: 100%;
   height: auto;
