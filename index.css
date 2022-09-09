@@ -80,19 +80,3 @@ body {
 
 /* Preloader CSS ends here */
 
-.hidden {
-  display: none;
-}
-
-main {
-  width: 78vw;
-  height: auto;
-  opacity: .8;
-  transition: width 4s;
-}
-
-img {
-  width: 100%;
-  height: auto;
-  max-width: 100%;
-}
